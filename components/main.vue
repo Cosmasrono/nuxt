@@ -1,6 +1,5 @@
 <template>
-  <main>about</main>
-  <div class=" ">hello world</div>
+  <h1>hello programmer</h1>
 </template>
 
 <script>
