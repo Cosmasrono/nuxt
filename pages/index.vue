@@ -6,6 +6,7 @@
   </div>
   <div class="flex flex-col md:flex-row">
 <aside class="mt-5 ml-10 w-64" aria-label="Sidebar">
+   <img src="../assets/logo.png" alt="" class="pb-4 w-20 h-16">
    <div class="overflow-y-auto px-3 py-4 bg-gray-50 rounded dark:bg-gray-800">
       <ul class="space-y-2">
         <li>
